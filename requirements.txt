@@ -1,0 +1,7 @@
+streamlit
+openai
+whisper
+fpdf
+pyannote.audio
+huggingface_hub
+pydub
